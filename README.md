@@ -1,2 +1,3 @@
-# gl-recursos-graficos
-Repositorio gráfico, contiene fork de material de FLiSoL
+# Gráfica
+
+Repositorio gráfico. No todo el material es de mi autoría.
